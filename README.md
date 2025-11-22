@@ -42,25 +42,6 @@ Prediction samples
 
 Performance evaluation
 
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/Pneumonia-Detection-Using-Chest-X-Ray.git
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open the notebook:
-
-jupyter notebook
-
-
-Run all cells.
-
 📜 License
 
 This project is open-source. Feel free to modify or use it for learning and research purposes
